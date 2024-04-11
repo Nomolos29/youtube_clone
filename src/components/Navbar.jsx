@@ -20,7 +20,6 @@ const Navbar = () => (
       <img src={logo} alt="logo" height={40} />
     </Link>
     <SearchBar />
-    <SearchBar />
   </Stack>
 )
 export default Navbar
